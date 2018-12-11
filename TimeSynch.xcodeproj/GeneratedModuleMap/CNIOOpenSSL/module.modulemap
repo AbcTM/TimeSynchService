@@ -1,0 +1,4 @@
+module CNIOOpenSSL {
+    umbrella "/Users/tm/Desktop/Service/TimeSynch/.build/checkouts/swift-nio-ssl.git-4943657357849153557/Sources/CNIOOpenSSL/include"
+    export *
+}

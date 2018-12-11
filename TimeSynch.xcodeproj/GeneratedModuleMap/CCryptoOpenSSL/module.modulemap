@@ -1,0 +1,4 @@
+module CCryptoOpenSSL {
+    umbrella "/Users/tm/Desktop/Service/TimeSynch/.build/checkouts/crypto.git-6592216430954125777/Sources/CCryptoOpenSSL/include"
+    export *
+}

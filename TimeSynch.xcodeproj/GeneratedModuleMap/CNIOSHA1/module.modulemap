@@ -1,0 +1,4 @@
+module CNIOSHA1 {
+    umbrella "/Users/tm/Desktop/Service/TimeSynch/.build/checkouts/swift-nio.git--4463765986467598920/Sources/CNIOSHA1/include"
+    export *
+}
